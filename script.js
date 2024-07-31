@@ -16,10 +16,10 @@ try {
         Laya.timer.loop(5e3, this, this.checkSum),
         this.m_btn_AutoSetting.visible = !1),
         this.m_img_StopAuto.visible = !P.cat.isAuto
-        u(`AutoBot ${P.cat.isAuto ? 'deactivated' : 'activated'}!\n\nCracked by @clqkx`)
+        u(`AutoBot ${P.cat.isAuto ? 'activated' : 'deactivated'}!\n\nCracked :)`)
     }
     
-    M.prototype.onClickAuto = onClickAuto
+    N.prototype.onClickAuto = onClickAuto
     console.log(`${consolePrefix}Script loaded`, consoleGreen);
     console.log(`${consolePrefix}Crack by @clqkx`, consoleGreen);
 
