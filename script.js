@@ -21,7 +21,7 @@ try {
     
     N.prototype.onClickAuto = onClickAuto
     console.log(`${consolePrefix}Script loaded`, consoleGreen);
-    console.log(`${consolePrefix}Crack by @clqkx`, consoleGreen);
+    console.log(`${consolePrefix}Crack :)`, consoleGreen);
 
 } catch (e) {
     console.log(`${consolePrefix}An error occurred, the BrakePoint is set incorrectly!`, consoleRed);
